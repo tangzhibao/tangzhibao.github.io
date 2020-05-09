@@ -37,9 +37,8 @@
 </table>
 
 <!-- Logo 图片 -->
-<div align='center'>
-  <img src='./assets/images/avatar.jpg' height='100' />
-</div>
+<img src='./assets/images/avatar.jpg' height='100' />
+
 
 :smile: This is me :point_up_2:
 
