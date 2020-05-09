@@ -36,13 +36,17 @@
   </tr>
 </table>
 
+
+---
 <!-- Logo 图片 -->
-<img src='./assets/images/avatar.jpg' height='100' />
+<div align='center'>
+  <img src='./assets/images/avatar.jpg' height='100' />
+</div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :smile: This is me :point_up_2: 
+![](https://img.shields.io/badge/Author-TZB-green)
 
-:smile: This is me :point_up_2:
-
-<br>
+---
 
 ## 大人，常来玩啊 :sparkles:
 ~~他们都说点了赞的人就不会掉头发呢~~  :speak_no_evil: <br>
