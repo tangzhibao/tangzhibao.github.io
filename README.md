@@ -49,9 +49,20 @@
 ---
 
 ## 大人，常来玩啊 :sparkles:
-~~他们都说点了赞的人就不会掉头发呢~~  :speak_no_evil: <br>
+~~他们都说点了赞的人就不会掉头发呢！~~  :speak_no_evil: <br>
 ~~如果你觉得我长得好看的话就点个赞吧~~  :sunglasses: <br>
+~~I'm top，请给我点赞~~  :one: <br>
 讨厌，点了赞再走嘛
 
 
+## 日常生活 :clapper:
+
+
+## 人生感悟 :radio_button:
+
+## 技术笔记 :notebook_with_decorative_cover:
+
+## 读书感悟 :bookmark:
+
+## 工作之余 :musical_score:
 
