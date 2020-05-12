@@ -14,23 +14,23 @@
   </tr>
   <tr align="center">
     <td width="200">
-      <a href='#日常生活 :clapper:'>Daily Life</a><br>
+      <a href='#日常生活-clapper'>Daily Life</a><br>
       :underage: <div>日常生活</div> :beers: 
     </td>
     <td width="200">
-      <a href='#人生感悟 :radio_button:'>Reflections On Life</a><br>
+      <a href='#人生感悟-radio_button'>Reflections On Life</a><br>
       :aries: <div>人生感悟</div> :rainbow: 
     </td>
     <td width="200">
-      <a href='#技术笔记 :notebook_with_decorative_cover:'>Technical Notes</a><br>
+      <a href='#技术笔记-notebook_with_decorative_cover'>Technical Notes</a><br>
       :hear_no_evil: <div>技术笔记</div> :gun:
     </td>
     <td width="200">
-      <a href='#读书感悟 :bookmark:'>Reading Reviews</a><br>
+      <a href='#读书感悟-bookmark'>Reading Reviews</a><br>
       :books: <div>读书感悟</div> :calendar:
     </td>
     <td width="200">
-      <a href='#工作之余 :musical_score:'>Outside Of Job</a><br>
+      <a href='#工作之余-musical_score'>Outside Of Job</a><br>
       :microphone: <div>工作之余</div> :video_game:
     </td>
   </tr>
