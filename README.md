@@ -77,7 +77,7 @@
 
 <!-- 读书记录 -->
 ## 读书记录 :bookmark:
-- [《JavaScript 函数式编程思想》第一张 —— 名称](./modules/ReadingReviews/编程书籍/JavaScript函数式编程思想/01st-名称.md)
+- [《JavaScript 函数式编程思想》第一章 —— 名称](./modules/ReadingReviews/编程书籍/JavaScript函数式编程思想/01st-名称.md)
 
 <br>
 
