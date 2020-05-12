@@ -26,8 +26,8 @@
       :hear_no_evil: <div>技术笔记</div> :gun:
     </td>
     <td width="200">
-      <a href='#读书感悟-bookmark'>Reading Reviews</a><br>
-      :books: <div>读书感悟</div> :calendar:
+      <a href='#读书记录-bookmark'>Reading Reviews</a><br>
+      :books: <div>读书记录</div> :calendar:
     </td>
     <td width="200">
       <a href='#工作之余-musical_score'>Outside Of Job</a><br>
@@ -55,15 +55,17 @@
 讨厌，点了赞再走嘛 :anger:
 
 
+<br>
+
 <!-- 日常生活 -->
 ## 日常生活 :clapper:
-- [下了班以后，你会一个人去KTV唱歌吗？](./modules/DailyLife/下了班以后，你会一个人去KTV唱歌吗？.md)
+
 
 <br>
 
 <!-- 人生感悟 -->
 ## 人生感悟 :radio_button:
-
+- [下了班以后，你会一个人去KTV唱歌吗？](./modules/Reflectionsonlife/下了班以后，你会一个人去KTV唱歌吗？.md)
 
 <br>
 
@@ -73,9 +75,9 @@
 
 <br>
 
-<!-- 读书感悟 -->
-## 读书感悟 :bookmark:
-
+<!-- 读书记录 -->
+## 读书记录 :bookmark:
+- [《JavaScript 函数式编程思想》第一张 —— 名称](./modules/ReadingReviews/编程书籍/JavaScript函数式编程思想/01st-名称.md)
 
 <br>
 
