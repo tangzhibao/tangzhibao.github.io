@@ -51,7 +51,7 @@
 ## 大人，常来玩啊 :sparkles:
 ~~他们都说点了赞的人就不会掉头发呢！~~  :speak_no_evil: <br>
 ~~如果你觉得我长得好看的话就点个赞吧 ♪~~  :sunglasses: <br>
-~~I'm top，请给我点赞~ ~~  :punch: <br>
+~~I'm top，请给我点赞\~~~  :punch: <br>
 讨厌，点了赞再走嘛 :anger:
 
 
