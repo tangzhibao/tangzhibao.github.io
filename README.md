@@ -14,23 +14,23 @@
   </tr>
   <tr align="center">
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Daily Life</a><br>
+      <a href='#dailylife'>Daily Life</a><br>
       :underage: <div>日常生活</div> :beers: 
     </td>
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Reflections On Life</a><br>
+      <a href='#reflectionsonlife'>Reflections On Life</a><br>
       :aries: <div>人生感悟</div> :rainbow: 
     </td>
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Technical Notes</a><br>
+      <a href='#technicalnotes'>Technical Notes</a><br>
       :hear_no_evil: <div>技术笔记</div> :gun:
     </td>
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Reading Reviews</a><br>
+      <a href='#readingreviews'>Reading Reviews</a><br>
       :books: <div>读书感悟</div> :calendar:
     </td>
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Outside Of Job</a><br>
+      <a href='#outsideofworking'>Outside Of Job</a><br>
       :microphone: <div>工作之余</div> :video_game:
     </td>
   </tr>
@@ -55,14 +55,32 @@
 讨厌，点了赞再走嘛 :anger:
 
 
-## 日常生活 :clapper:
+<!-- 日常生活 -->
+## [日常生活](#dailylife) :clapper:
 - [下了班以后，你会一个人去KTV唱歌吗？](./modules/DailyLife/下了班以后，你会一个人去KTV唱歌吗？.md)
 
-## 人生感悟 :radio_button:
+<br>
 
-## 技术笔记 :notebook_with_decorative_cover:
+<!-- 人生感悟 -->
+## [人生感悟](#reflectionsonlife) :radio_button:
 
-## 读书感悟 :bookmark:
 
-## 工作之余 :musical_score:
+<br>
 
+<!-- 技术笔记 -->
+## [技术笔记](#technicalnotes) :notebook_with_decorative_cover:
+
+
+<br>
+
+<!-- 读书感悟 -->
+## [读书感悟](#readingreviews) :bookmark:
+
+
+<br>
+
+<!-- 工作之余 -->
+## [工作之余](#outsideofworking) :musical_score:
+
+
+<br>
