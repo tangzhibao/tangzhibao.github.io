@@ -61,7 +61,7 @@
 ## 日常生活 :clapper:
 - [关于程序员矫正驼背等体态问题的笔记和过程记录](./modules/DailyLife/关于矫正驼背等体态问题的笔记和过程记录.md)
 - [2020年我立下的FLAG清单](./modules/DailyLife/2020年FLAG清单.md)
-- [为了时刻监督自己，提高执行效率，给自己制定的时间任务表。试行版](./modules/DailyLife/时间任务卡（试行版）.md)
+- [人生的8个方向任务卡（试行版）](./modules/DailyLife/时间任务卡（试行版）.md)
 
 <br>
 
