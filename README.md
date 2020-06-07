@@ -36,55 +36,61 @@
   </tr>
 </table>
 
-
 ---
+
 <!-- Logo 图片 -->
 <div align='center'>
-  <img src='./assets/images/avatar.jpg' height='100' />
+  <img src='./assets/images/avatar_2.jpg' height='100' />
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :smile: This is me :point_up_2: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :smile: This is me :point_up_2:
 ![](https://img.shields.io/badge/Author-TZB-green)
 
 ---
 
 ## 大人，常来玩啊 :sparkles:
-~~他们都说点了赞的人就不会掉头发呢！~~  :speak_no_evil: <br>
-~~如果你觉得我长得好看的话就点个赞吧 ♪~~  :sunglasses: <br>
-~~I'm top，请给我点赞\~~~  :punch: <br>
-讨厌，点了赞再走嘛 :anger:
 
+~~他们都说点了赞的人就不会掉头发呢！~~ :speak_no_evil: ~~如果你觉得我长得好看的话就点个赞吧 ♪~~ :sunglasses: ~~I'm top，请给我点赞\~~~ :punch: <br>
+讨厌，点了赞再走嘛 :anger:
 
 <br>
 
 <!-- 日常生活 -->
+
 ## 日常生活 :clapper:
+
 - [关于程序员矫正驼背等体态问题的笔记和过程记录](./modules/DailyLife/关于矫正驼背等体态问题的笔记和过程记录.md)
-- [2020年我立下的FLAG清单](./modules/DailyLife/2020年FLAG清单.md)
-- [人生的8个方向任务卡（试行版）](./modules/DailyLife/时间任务卡（试行版）.md)
+- [2020 年我立下的 FLAG 清单](./modules/DailyLife/2020年FLAG清单.md)
+- [人生的 8 个方向任务卡（试行版）](./modules/DailyLife/时间任务卡（试行版）.md)
 
 <br>
 
 <!-- 人生感悟 -->
+
 ## 人生感悟 :radio_button:
-- [下了班以后，你会一个人去KTV唱歌吗？](./modules/Reflectionsonlife/下了班以后，你会一个人去KTV唱歌吗？.md)
+
+- [下了班以后，你会一个人去 KTV 唱歌吗？](./modules/Reflectionsonlife/下了班以后，你会一个人去KTV唱歌吗？.md)
 
 <br>
 
 <!-- 技术笔记 -->
-## 技术笔记 :notebook_with_decorative_cover:
 
+## 技术笔记 :notebook_with_decorative_cover:
 
 <br>
 
 <!-- 读书记录 -->
+
 ## 读书记录 :bookmark:
+
 - [《JavaScript 函数式编程思想》第一章 —— 名称](./modules/ReadingReviews/编程书籍/JavaScript函数式编程思想/01st-名称.md)
 
 <br>
 
 <!-- 工作之余 -->
+
 ## 工作之余 :musical_score:
-- [音乐梦之——古典吉他学习记录](./modules/OutsideOfJob/音乐梦之——古典吉他学习记录.md)
+
+- [【吉他】吉他学习记录](./modules/OutsideOfJob/Guitar/音乐梦之——古典吉他学习记录.md)
 
 <br>
