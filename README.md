@@ -61,7 +61,7 @@
 
 - [关于程序员矫正驼背等体态问题的笔记和过程记录](./modules/DailyLife/关于矫正驼背等体态问题的笔记和过程记录.md)
 - [2020 年我立下的 FLAG 清单](./modules/DailyLife/2020年FLAG清单.md)
-- [人生的 8 个方向任务卡（试行版）](./modules/DailyLife/时间任务卡（试行版）.md)
+- [人生的 8 个方向任务卡（试行版）](./modules/DailyLife/人生八方向/index.md)
 
 <br>
 
