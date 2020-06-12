@@ -10,26 +10,26 @@
 
 #### 导航
 
-- <a href='#为什么使用 better-scroll'>为什么使用 better-scroll</a>
+- <a href='#为什么使用-better-scroll'>为什么使用 better-scroll</a>
   <br>
 
-- <a href='#better-scroll 概要'>better-scroll 概要</a>
+- <a href='#better-scroll-概要'>better-scroll 概要</a>
   <br>
 
 - <a href='#具体踩坑'>具体踩坑</a>
 
   - <a href='#初始化完成但是无法滚动'>初始化完成但是无法滚动</a>
-  - <a href='#配合 vant 的 Tabs 组件时，切换后 tab 页面滚动出错'>配合 vant 的 Tabs 组件时，切换后 tab 页面滚动出错</a>
-  - <a href='#切换 tab 页滚动至顶部，偶现失效'>切换 tab 页滚动至顶部，偶现失效</a>
-  - <a href='#在 ios 设备上，滚动期间触屏会导致页面高度抖动'>在 ios 设备上，滚动期间触屏会导致页面高度抖动</a>
+  - <a href='#配合-vant-的-Tabs-组件时，切换后-tab-页面滚动出错'>配合 vant 的 Tabs 组件时，切换后 tab 页面滚动出错</a>
+  - <a href='#切换-tab-页滚动至顶部，偶现失效'>切换 tab 页滚动至顶部，偶现失效</a>
+  - <a href='#在-ios-设备上，滚动期间触屏会导致页面高度抖动'>在 ios 设备上，滚动期间触屏会导致页面高度抖动</a>
   - <a href='#实例化时基本的常用配置'>实例化时基本的常用配置</a>
 
 <br>
 
-- <a href='#项目其他踩坑 or 技术'>项目其他踩坑 or 技术</a>
-  - <a href='#活用 less 特性，重用自定义样式的 vant 组件'>活用 less 特性，重用自定义样式的 vant 组件</a>
-  - <a href='#SwiperJs 来定制轮播图， loop 属性导致图片加载失败'>SwiperJs 来定制轮播图， loop 属性导致图片加载失败</a>
-  - <a href='#微信中使用原生 Video 标签的一些问题'>微信中使用原生 Video 标签的一些问题</a>
+- <a href='#项目其他踩坑-or-技术'>项目其他踩坑 or 技术</a>
+  - <a href='#活用-less-特性，重用自定义样式的-vant-组件'>活用 less 特性，重用自定义样式的 vant 组件</a>
+  - <a href='#SwiperJs-来定制轮播图，-loop-属性导致图片加载失败'>SwiperJs 来定制轮播图， loop 属性导致图片加载失败</a>
+  - <a href='#微信中使用原生-Video-标签的一些问题'>微信中使用原生 Video 标签的一些问题</a>
 
 <br><br><br>
 
