@@ -77,7 +77,7 @@
 
 ## 技术笔记 :notebook_with_decorative_cover:
 
-- [【踩坑】移动端 vue+vant+better-scroll 项目踩坑记录](./modules/TechicalNotes/踩坑/better-scroll/index.md)
+- [【踩坑】移动端 vue+vant+better-scroll 项目踩坑记录](./modules/TechnicalNotes/踩坑/better-scroll/index.md)
 
 <br>
 
