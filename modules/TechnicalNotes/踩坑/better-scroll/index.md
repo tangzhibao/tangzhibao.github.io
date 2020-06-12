@@ -1,5 +1,13 @@
 # 移动端项目 Vue+Vant+Better-scroll 制作微信端页面踩坑记录
 
+<img src='https://img.shields.io/badge/Author-TZB-informational' />
+<img src='https://img.shields.io/badge/vue-2.6.11-orange' />
+<img src='https://img.shields.io/badge/swiper-5.4.2-yellow' />
+<img src='https://img.shields.io/badge/better--scroll-2.0.0--beta.6-brightgreen' />
+<img src='https://img.shields.io/badge/vant-2.8.3-yellowgreen' />
+
+---
+
 ## 前言
 
 本篇文章为基于`better-scroll`的 vue 移动端项目踩坑记录，**主要围绕**`better-scroll`这个插件在项目中所带来的问题进行记录。
@@ -19,7 +27,7 @@
 - <a href='#具体踩坑'>具体踩坑</a>
 
   - <a href='#初始化完成但是无法滚动'>初始化完成但是无法滚动</a>
-  - <a href='#配合-vant-的-tabs-组件时切换后-tab-页面滚动出错'>配合 vant 的 Tabs 组件时，切换后 tab 页面滚动出错</a>
+  - <a href='#配合-vant-的-tabs-组件时切换后-tab-页面滚动出错'>配合 vant 的 Tabs 组件时，切换后 tab 页面滚动出错</a>b
   - <a href='#切换-tab-页滚动至顶部偶现失效'>切换 tab 页滚动至顶部，偶现失效</a>
   - <a href='#在-ios-设备上滚动期间触屏会导致页面高度抖动'>在 ios 设备上，滚动期间触屏会导致页面高度抖动</a>
   - <a href='#实例化时基本的常用配置'>实例化时基本的常用配置</a>
