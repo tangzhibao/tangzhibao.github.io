@@ -14,55 +14,85 @@
   </tr>
   <tr align="center">
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Daily Life</a><br>
+      <a href='#日常生活-clapper'>Daily Life</a><br>
       :underage: <div>日常生活</div> :beers: 
     </td>
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Reflections On Life</a><br>
+      <a href='#人生感悟-radio_button'>Reflections On Life</a><br>
       :aries: <div>人生感悟</div> :rainbow: 
     </td>
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Technical Notes</a><br>
+      <a href='#技术笔记-notebook_with_decorative_cover'>Technical Notes</a><br>
       :hear_no_evil: <div>技术笔记</div> :gun:
     </td>
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Reading Reviews</a><br>
-      :books: <div>读书感悟</div> :calendar:
+      <a href='#读书记录-bookmark'>Reading Reviews</a><br>
+      :books: <div>读书记录</div> :calendar:
     </td>
     <td width="200">
-      <a href='https://github.com/tangzhibao/tangzhibao.github.io'>Outside Of Job</a><br>
+      <a href='#工作之余-musical_score'>Outside Of Job</a><br>
       :microphone: <div>工作之余</div> :video_game:
     </td>
   </tr>
 </table>
 
-
 ---
+
 <!-- Logo 图片 -->
 <div align='center'>
-  <img src='./assets/images/avatar.jpg' height='100' />
+  <img src='./assets/images/avatar_2.jpg' height='100' />
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :smile: This is me :point_up_2: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :smile: This is me :point_up_2:
 ![](https://img.shields.io/badge/Author-TZB-green)
 
 ---
 
 ## 大人，常来玩啊 :sparkles:
-~~他们都说点了赞的人就不会掉头发呢！~~  :speak_no_evil: <br>
-~~如果你觉得我长得好看的话就点个赞吧~~  :sunglasses: <br>
-~~I'm top，请给我点赞~~  :one: <br>
-讨厌，点了赞再走嘛
 
+~~他们都说点了赞的人就不会掉头发呢！~~ :speak_no_evil: ~~如果你觉得我长得好看的话就点个赞吧 ♪~~ :sunglasses: ~~I'm top，请给我点赞\~~~ :punch: <br>
+讨厌，点了赞再走嘛 :anger:
+
+<br>
+
+<!-- 日常生活 -->
 
 ## 日常生活 :clapper:
 
+- [关于程序员矫正驼背等体态问题的笔记和过程记录](./modules/DailyLife/关于矫正驼背等体态问题的笔记和过程记录.md)
+- [2020 年我立下的 FLAG 清单](./modules/DailyLife/2020年FLAG清单.md)
+- [人生的 8 个方向任务卡（试行版）](./modules/DailyLife/人生八方向/index.md)
+
+<br>
+
+<!-- 人生感悟 -->
 
 ## 人生感悟 :radio_button:
 
+- [下了班以后，你会一个人去 KTV 唱歌吗？](./modules/Reflectionsonlife/下了班以后，你会一个人去KTV唱歌吗？.md)
+
+<br>
+
+<!-- 技术笔记 -->
+
 ## 技术笔记 :notebook_with_decorative_cover:
 
-## 读书感悟 :bookmark:
+- [【踩坑】移动端 vue+vant+better-scroll 项目踩坑记录](./modules/TechnicalNotes/踩坑/better-scroll/index.md)
+
+<br>
+
+<!-- 读书记录 -->
+
+## 读书记录 :bookmark:
+
+- [《JavaScript 函数式编程思想》第一章 —— 名称](./modules/ReadingReviews/编程书籍/JavaScript函数式编程思想/01st-名称.md)
+
+<br>
+
+<!-- 工作之余 -->
 
 ## 工作之余 :musical_score:
 
+- [【吉他】吉他学习记录](./modules/OutsideOfJob/Guitar/音乐梦之——古典吉他学习记录.md)
+
+<br>
